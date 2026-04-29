@@ -12,6 +12,11 @@ This program was built to simulate real-world IT support workflows and demonstra
 - Close tickets (soft delete via status change)
 - Persisent storage using JSON
 - Simple command-line interface for interaction
+
+### Create Ticket
+![Create Ticket](screenshots/ticketing-system_2.png)
+### List Tickets
+![List Tickets](screenshots/ticketing-system_1.png)
 ---
 ## HOW TO USE:
 
