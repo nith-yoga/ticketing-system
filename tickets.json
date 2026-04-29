@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "title": "WiFi not working",
+        "description": "Cannot connect to network",
+        "priority": "High",
+        "status": "Closed",
+        "created_at": "2026-04-29 16:21:45.626214",
+        "history": [
+            "Ticket created",
+            "Status changed to Resolved",
+            "Ticket closed"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "WiFi Issues",
+        "description": "Network not connecting",
+        "priority": "High",
+        "status": "Closed",
+        "created_at": "2026-04-29 16:39:48.168482",
+        "history": [
+            "Ticket created",
+            "Status changed to In Progress",
+            "Status changed to Resolved",
+            "Ticket closed"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Login Issue",
+        "description": "User Can't Recover Password",
+        "priority": "Medium",
+        "status": "Closed",
+        "created_at": "2026-04-29 16:57:41.528106",
+        "history": [
+            "Ticket created",
+            "Status changed to In Progress",
+            "Status changed to P",
+            "Status changed to R",
+            "Ticket closed"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Email Issues",
+        "description": "Email keeps returning on send attempts",
+        "priority": "High",
+        "status": "Closed",
+        "created_at": "2026-04-29 17:07:47.046118",
+        "history": [
+            "Ticket created",
+            "Status changed to P",
+            "Status changed to R",
+            "Status changed to P",
+            "Status changed to R",
+            "Ticket closed"
+        ]
+    }
+]
