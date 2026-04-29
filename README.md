@@ -25,8 +25,6 @@ ticket close <ticket id>
 
 ---
 
-## EXAMPLE OUTPUT
-```md id="c8v4xp"
 ## Example Output
 ```bash
 ID: 1
